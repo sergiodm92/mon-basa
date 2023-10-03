@@ -4,5 +4,6 @@
   height: auto;
 }
 :root {
-  --primary-color: #8A347E
+  --primary-color: #8A347E;
+  --secondary-color: #fff;
 }

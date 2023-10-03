@@ -1,6 +1,6 @@
 import styles from './styles.module.css'
 
-const SectionFour = () =>{
+const SectionFour = ({t}) =>{
     return(
         <div className={styles.container}>
             Section 4
