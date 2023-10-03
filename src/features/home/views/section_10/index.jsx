@@ -1,8 +1,9 @@
 import styles from './styles.module.css'
 
-const Map = () =>{
+const Map = ({t}) =>{
     return(
         <div className={styles.container}>
+        {t('map.title')}
         </div>
     )
 }
