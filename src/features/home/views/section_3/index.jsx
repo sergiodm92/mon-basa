@@ -1,6 +1,8 @@
 import Image from "next/image";
 import styles from "./styles.module.css";
 import rocket from 'public/assets/images/about-us/rocket.webp';
+import world from 'public/assets/images/about-us/world.webp';
+import lightBulb from 'public/assets/images/about-us/light_bulb.webp';
 
 const SectionThree = ({ t }) => {
   return (
@@ -15,7 +17,7 @@ const SectionThree = ({ t }) => {
 
         <div className={styles.card}>
           <div className={styles.cardTitle}>
-            <Image src={rocket} alt="rocket_mon-basa" width={200} height={200} />
+            <Image src={rocket} alt="rocket_mon-basa" width={100} height={100} />
             <h4>{t("meetUs.mision.title")}</h4>
           </div>
           <p className={styles.cardContent}>{t("meetUs.mision.content")}</p>
@@ -23,7 +25,7 @@ const SectionThree = ({ t }) => {
 
         <div className={styles.card}>
           <div className={styles.cardTitle}>
-            {/* <img src={rocket} alt="rocket_mon-basa" /> */}
+          <Image src={world} alt="rocket_mon-basa" width={100} height={100} />
             <h4>{t("meetUs.vision.title")}</h4>
           </div>
           <p className={styles.cardContent}>{t("meetUs.vision.content")}</p>
@@ -31,7 +33,7 @@ const SectionThree = ({ t }) => {
 
         <div className={styles.card}>
           <div className={styles.cardTitle}>
-            {/* <img src={rocket} alt="rocket_mon-basa" /> */}
+          <Image src={lightBulb} alt="rocket_mon-basa" width={100} height={100} />
             <h4>{t("meetUs.values.title")}</h4>
           </div>
           <p className={styles.cardContent}>{t("meetUs.values.content")}</p>
