@@ -21,6 +21,11 @@
         "supply": "METROS CUBICOS DE SUMINISTRO DE AGREGADO DE PETREO",
         "projects": "PROJECTS SUCCESSFULLY COMPLETED"
     },
+    "services": {
+        "materialSupply": "We have a daily production potential of 3 thousand cubic meters of stone aggregates, such as dust and gravel, in a variety of sizes, as well as the capacity to extract 1,000 tons of rock for breakwater per shift.",
+        "design": "We want to provide you not only with ideas that complement your work, but also innovative and sustainable projects that protect and preserve our natural environment.",
+        "specialReq": "The production of special granulometry materials is completely adapted to your requirements. At Mon-Basa Cantera, we turn your visions into exceptional and personalized materials that will drive the success of your project."
+    },
     "contactUs":{
         "title":"Contact us"
     },

@@ -22,6 +22,11 @@
         "supply": "METROS CUBICOS DE SUMINISTRO DE AGREGADO DE PETREO",
         "projects": "PROYECTOS CONCLUIDOS CON ÉXITO"
     },
+    "services": {
+        "materialSupply": "Poseemos un potencial de producción diaria de 3 mil metros cúbicos de agregados pétreos, como polvo y gravilla, en una variedad de tamaños, así como la capacidad de extraer 1,000 toneladas de roca para escollera por turno.",
+        "design": "Deseamos brindarte no solo ideas que complementan tu obra, sino tambien proyectos innovadores y sostenibles que protejan y preserven nuestro entorno natural.",
+        "specialReq": "La producción de materiales de granulometría especial se adapta completamente a tus requerimientos. En Mon-Basa Cantera, convertimos tus visiones en materiales excepcionales y personalizados que impulsarán el éxito de tu proyecto."
+    },
     "contactUs":{
         "title":"Contáctanos"
     },
