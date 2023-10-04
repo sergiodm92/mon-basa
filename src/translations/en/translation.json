@@ -13,10 +13,12 @@
         "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments.",
         "mision": {
             "title": "Mision",
-            "content": "Our mission is to satisfy the needs of our clients and their projects through the generation and supply of materials, implementing innovative solutions that take care of the environment, generating materials that meet the special requirements for the different sectors of the mining and the construction."},
+            "content": "Our mission is to satisfy the needs of our clients and their projects through the generation and supply of materials, implementing innovative solutions that take care of the environment, generating materials that meet the special requirements for the different sectors of the mining and the construction."
+        },
         "vision": {
             "title": "Vision",
-            "content": "To be a Mexican company recognized worldwide, dedicated to producing high quality basalt material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always based on the generation of innovative projects and addressing the needs of the environment."},
+            "content": "To be a Mexican company recognized worldwide, dedicated to producing high quality basalt material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always based on the generation of innovative projects and addressing the needs of the environment."
+        },
         "values": {
             "title": "Valores",
             "content": "We stand out for our corporate values, we are based on commitment, collaboration, perseverance, respect, camaraderie, loyalty, conviction, honesty, improvement, good service, we adapt to the change and excellence of our company."
@@ -42,36 +44,39 @@
         "design": "We want to provide you not only with ideas that complement your work, but also innovative and sustainable projects that protect and preserve our natural environment.",
         "specialReq": "The production of special granulometry materials is completely adapted to your requirements. At Mon-Basa Cantera, we turn your visions into exceptional and personalized materials that will drive the success of your project."
     },
-    "products": [
-        {
-            "title": "ASPHALT MIX",
-            "content": "Combination of asphalt and mineral aggregates in exact proportions used for road construction."
-        },
-        {
-            "title": "PREPARED HYDRAULIC BASE",
-            "content": "Consists of a mixture of materials between fine aggregate and coarse aggregate that allows the material to be within the particle size distribution curves established by SCT and AASHTO regulations."
-        },
-        {
-            "title": "CRUSHED ROCK",
-            "content": "Crushed rock with multiple faces, with a stone size ranging from 1 1/2\" to 3\" and from 3\" to 5\"."
-        },
-        {
-            "title": "CRUSHED GRAVEL",
-            "content": "Resulting from the crushing processes of raw material extracted from rivers, also known as pebbles, various granulometries yield gravels of 1 1/2\" and 3/4\"."
-        },
-        {
-            "title": "ASPHALT MIX",
-            "content": "We have a product that meets market quality requirements. We have our own mine and collaborate with various miners to serve large projects and guarantee our commitment to customers."
-        },
-        {
-            "title": "BASALT",
-            "content": "Aggregates and basalt rock of different granulometries and gravel designs."
-        },
-        {
-            "title": "CRUSHED SAND",
-            "content": "Derived from the crushing process of basalt rocks, its properties are used for the production of hydraulic concrete, asphalt concrete, hydraulic bases, as well as general construction."
-        }
-    ],
+    "products": {
+        "title": "Products",
+        "list": [
+            {
+                "title": "ASPHALT MIX",
+                "content": "Combination of asphalt and mineral aggregates in exact proportions used for road construction."
+            },
+            {
+                "title": "PREPARED HYDRAULIC BASE",
+                "content": "Consists of a mixture of materials between fine aggregate and coarse aggregate that allows the material to be within the particle size distribution curves established by SCT and AASHTO regulations."
+            },
+            {
+                "title": "CRUSHED ROCK",
+                "content": "Crushed rock with multiple faces, with a stone size ranging from 1 1/2\" to 3\" and from 3\" to 5\"."
+            },
+            {
+                "title": "CRUSHED GRAVEL",
+                "content": "Resulting from the crushing processes of raw material extracted from rivers, also known as pebbles, various granulometries yield gravels of 1 1/2\" and 3/4\"."
+            },
+            {
+                "title": "ASPHALT MIX",
+                "content": "We have a product that meets market quality requirements. We have our own mine and collaborate with various miners to serve large projects and guarantee our commitment to customers."
+            },
+            {
+                "title": "BASALT",
+                "content": "Aggregates and basalt rock of different granulometries and gravel designs."
+            },
+            {
+                "title": "CRUSHED SAND",
+                "content": "Derived from the crushing process of basalt rocks, its properties are used for the production of hydraulic concrete, asphalt concrete, hydraulic bases, as well as general construction."
+            }
+        ]
+    },
     "team": {
         "team": "TEAM",
         "teams": [
