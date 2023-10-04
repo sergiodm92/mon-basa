@@ -7,8 +7,8 @@ const SectionSix = ({ t }) => {
   return (
     <div className={styles.container}>
         <div className={styles.header}>
-            <h3>{t("products")}</h3>
-            <h3>{t("products")}</h3>
+            <h3>{t("products.title")}</h3>
+            <h3>{t("products.description")}</h3>
         </div>
       {products.map((product) => (
         <div className={styles.product}>

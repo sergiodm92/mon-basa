@@ -46,6 +46,7 @@
     },
     "products": {
         "title": "Productos",
+        "description": "En MON-BASA CANTERA  manejamos los mejores materiales para nuestros clientes.",
         "list": [
             {
                 "title": "MEZCLA ASFÁLTICA",
