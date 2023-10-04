@@ -1,4 +1,12 @@
 {
+    "navbar": {
+        "home": "Home",
+        "knowUs": "Know us",
+        "services": "Services",
+        "products": "Products",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
     "meetUs": {
         "whoWeAreTitle": "Who we are?",
         "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments.",
@@ -102,6 +110,15 @@
     "ourCustomers": "OUR CUSTOMERS",
     "contactUs": {
         "title": "Contact us"
+    },
+    "anyProject": "Any project in your mind?",
+    "location": "Rustic property called “Caño de Gallegos”, located in the congregation of Paso Cedro, municipality of Actopan, Veracruz. At the deviation to Mozomboa on Highway 180 at km 179, between the communities of Caño Gallegos and Playa Azul. CP 91494",
+    "contactForm": {
+        "name": "Name",
+        "lastname": "Lastname",
+        "email": "Email",
+        "message": "Message",
+        "buttonSubmit": "Send"
     },
     "map": {
         "title": "Location"
