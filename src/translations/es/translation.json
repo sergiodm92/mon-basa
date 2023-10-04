@@ -13,10 +13,12 @@
         "whoWeAreContent": "Cantera Mon-Basa se destaca en la industria de trituración y transporte de piedra, desempeñando un papel esencial en la construcción y el desarrollo. Su trabajo va más allá de la extracción de materiales, influyendo en la calidad y durabilidad de las infraestructuras, así como en la eficiencia de los proyectos. Su enfoque en la excelencia y la sostenibilidad la convierte en una colaboradora fundamental en la industria de la construcción, contribuyendo significativamente a la configuración de entornos urbanos y rurales funcionales y estéticos.",
         "mision": {
             "title": "Misión",
-            "content": "Nuestra misión es lograr satisfacer las necesidades de nuestros clientes y sus proyectos a través de la generación y suministro de materiales, implementando soluciones innovadoras que cuiden al medio ambiente, generando materiales que cumplan con los requerimientos especiales para los diferentes sectores del ramo de la minería y la construcción."},
+            "content": "Nuestra misión es lograr satisfacer las necesidades de nuestros clientes y sus proyectos a través de la generación y suministro de materiales, implementando soluciones innovadoras que cuiden al medio ambiente, generando materiales que cumplan con los requerimientos especiales para los diferentes sectores del ramo de la minería y la construcción."
+        },
         "vision": {
             "title": "Visión",
-            "content": "Ser una empresa mexicana reconocida a nivel mundial, dedicada a producir material basáltico de alta calidad y regulada ante la ley. Buscamos incrementar la producción y el suministro de materiales con un alto margen de competitividad dentro y fuera del territorio mexicano, siempre basándonos en la generación de proyectos innovadores y atendiendo las necesidades del medio ambiente."},
+            "content": "Ser una empresa mexicana reconocida a nivel mundial, dedicada a producir material basáltico de alta calidad y regulada ante la ley. Buscamos incrementar la producción y el suministro de materiales con un alto margen de competitividad dentro y fuera del territorio mexicano, siempre basándonos en la generación de proyectos innovadores y atendiendo las necesidades del medio ambiente."
+        },
         "values": {
             "title": "Valores",
             "content": "Nos destacamos por nuestros valores corporativos nos basamos en el compromiso, colaboración, perseverancia, respeto , compañerismo, lealtad, convicción, honestidad, superación , el buen servicio , nos adaptamos al cambio y la excelencia de nuestra empresa."
@@ -42,36 +44,39 @@
         "design": "Deseamos brindarte no solo ideas que complementan tu obra, sino tambien proyectos innovadores y sostenibles que protejan y preserven nuestro entorno natural.",
         "specialReq": "La producción de materiales de granulometría especial se adapta completamente a tus requerimientos. En Mon-Basa Cantera, convertimos tus visiones en materiales excepcionales y personalizados que impulsarán el éxito de tu proyecto."
     },
-    "products": [
-        {
-            "title": "MEZCLA ASFÁLTICA",
-            "content": "Combinación de asfalto y agregados minerales pétreos en proporciones exactas que se utiliza para construir firmes."
-        },
-        {
-            "title": "BASE HIDRÁULICA PREPARADA",
-            "content": "Consiste en una mezcla de materiales entre agregado fino y agregado grueso que permite que el material esté dentro de las curvas granulométricas que establece la normativa SCT y AASHTO."
-        },
-        {
-            "title": "GRAVON",
-            "content": "Roca triturada con varias caras, con un tamaño de piedra que va de 1 1/2 \" a 3 \" y de 3 \" a 5 \"."
-        },
-        {
-            "title": "GRAVA TRITURADA",
-            "content": "Resultado de los procesados de trituración del material en bruto extraído de los ríos, conocidos también como canto rodado, bajo las diversas granulometrías se obtienen gravas de 1 1/2 \" y 3/4 \"."
-        },
-        {
-            "title": "MEZCLA ASFÁLTICA",
-            "content": "Contamos con un producto que cumple con los requerimientos del mercado en calidad. Tenemos una mina propia y nos complementamos con diferentes mineros para atender los grandes proyectos y garantizar nuestro compromiso con los clientes."
-        },
-        {
-            "title": "BASALTO",
-            "content": "Agregados y roca basáltica de diferentes granulometrías y diseño de gravas."
-        },
-        {
-            "title": "ARENA TRITURADA",
-            "content": "Derivada del proceso de trituración de rocas basálticas, por sus propiedades se utilizan para la fabricación de concretos hidráulicos, concretos asfálticos, bases hidráulicas, así como para la construcción en general."
-        }
-    ],
+    "products": {
+        "title": "Productos",
+        "list": [
+            {
+                "title": "MEZCLA ASFÁLTICA",
+                "content": "Combinación de asfalto y agregados minerales pétreos en proporciones exactas que se utiliza para construir firmes."
+            },
+            {
+                "title": "BASE HIDRÁULICA PREPARADA",
+                "content": "Consiste en una mezcla de materiales entre agregado fino y agregado grueso que permite que el material esté dentro de las curvas granulométricas que establece la normativa SCT y AASHTO."
+            },
+            {
+                "title": "GRAVON",
+                "content": "Roca triturada con varias caras, con un tamaño de piedra que va de 1 1/2 \" a 3 \" y de 3 \" a 5 \"."
+            },
+            {
+                "title": "GRAVA TRITURADA",
+                "content": "Resultado de los procesados de trituración del material en bruto extraído de los ríos, conocidos también como canto rodado, bajo las diversas granulometrías se obtienen gravas de 1 1/2 \" y 3/4 \"."
+            },
+            {
+                "title": "MEZCLA ASFÁLTICA",
+                "content": "Contamos con un producto que cumple con los requerimientos del mercado en calidad. Tenemos una mina propia y nos complementamos con diferentes mineros para atender los grandes proyectos y garantizar nuestro compromiso con los clientes."
+            },
+            {
+                "title": "BASALTO",
+                "content": "Agregados y roca basáltica de diferentes granulometrías y diseño de gravas."
+            },
+            {
+                "title": "ARENA TRITURADA",
+                "content": "Derivada del proceso de trituración de rocas basálticas, por sus propiedades se utilizan para la fabricación de concretos hidráulicos, concretos asfálticos, bases hidráulicas, así como para la construcción en general."
+            }
+        ]
+    },
     "team": {
         "team": "EQUIPO",
         "teams": [
