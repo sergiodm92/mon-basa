@@ -1,12 +1,109 @@
 {
     "meetUs": {
         "whoWeAreTitle": "¿QUIENES SOMOS?",
-        "whoWeAreContent": "Cantera Mon-Basa se destaca en la industria de trituración y transporte de piedra, desempeñando un papel esencial en la construcción y el desarrollo. Su trabajo va más allá de la extracción de materiales, influyendo en la calidad y durabilidad de las infraestructuras, así como en la eficiencia de los proyectos. Su enfoque en la excelencia y la sostenibilidad la convierte en una colaboradora fundamental en la industria de la construcción, contribuyendo significativamente a la configuración de entornos urbanos y rurales funcionales y estéticos."
+        "whoWeAreContent": "Cantera Mon-Basa se destaca en la industria de trituración y transporte de piedra, desempeñando un papel esencial en la construcción y el desarrollo. Su trabajo va más allá de la extracción de materiales, influyendo en la calidad y durabilidad de las infraestructuras, así como en la eficiencia de los proyectos. Su enfoque en la excelencia y la sostenibilidad la convierte en una colaboradora fundamental en la industria de la construcción, contribuyendo significativamente a la configuración de entornos urbanos y rurales funcionales y estéticos.",
+        "mision": "Nuestra misión es lograr satisfacer las necesidades de nuestros clientes y sus proyectos a través de la generación y suministro de materiales, implementando soluciones innovadoras que cuiden al medio ambiente, generando materiales que cumplan con los requerimientos especiales para los diferentes sectores del ramo de la minería y la construcción.",
+        "vision": "Ser una empresa mexicana reconocida a nivel mundial, dedicada a producir material basáltico de alta calidad y regulada ante la ley. Buscamos incrementar la producción y el suministro de materiales con un alto margen de competitividad dentro y fuera del territorio mexicano, siempre basándonos en la generación de proyectos innovadores y atendiendo las necesidades del medio ambiente.",
+        "values": [
+            "Compromiso",
+            "Responsabilidad",
+            "Colaboración",
+            "Perseverancia",
+            "Respeto",
+            "Compañerismo",
+            "Lealtad",
+            "Convicción",
+            "Honestidad",
+            "Superación",
+            "Servicio",
+            "Adaptación al cambio",
+            "Excelencia"
+        ]
     },
-    "contactUs":{
-        "title":"Contáctanos"
+    "ourCommitment": {
+        "title": "NUESTRO COMPROMISO",
+        "firstParagraph": "Mon-Basa Cantera es una empresa comprometida con una visión que va más allá de vender materiales. Nuestra misión es proporcionarte no solo los materiales que necesitas, sino también ideas y soluciones innovadoras que cuiden el medio ambiente.",
+        "secondParagraph": "Operamos minas estratégicas en Cancún, Quintana Roo, Actopan, San Andrés, Veracruz, Hidalgo y el Estado de México. Nuestra mina más grande abarca 90 hectáreas y produce hasta 1,000 metros cúbicos de gravilla y 1,500 toneladas de roca para escollera por turno de manera eficiente.",
+        "thirdParagraph": "Ofrecemos materiales personalizados según tus necesidades, incluso en turnos nocturnos, cumpliendo con todas las regulaciones ambientales y respaldados por un enfoque ecológico sólido.",
+        "fourthParagraph": "En Mon-Basa Cantera, nos enfocamos en calidad, respeto al medio ambiente y la satisfacción del cliente."
     },
-    "map":{
-        "title":"Ubicación"
+    "ourProgress": {
+        "hectares": "HECTÁREAS",
+        "cubicMeters": "METROS CÚBICOS POR TURNO",
+        "mines": "MINAS",
+        "exploitation": "DE METROS CÚBICOS EN VOLUMEN DE EXPLOTACIÓN",
+        "supply": "METROS CUBICOS DE SUMINISTRO DE AGREGADO DE PETREO",
+        "projects": "PROYECTOS CONCLUIDOS CON ÉXITO"
+    },
+    "services": {
+        "materialSupply": "Poseemos un potencial de producción diaria de 3 mil metros cúbicos de agregados pétreos, como polvo y gravilla, en una variedad de tamaños, así como la capacidad de extraer 1,000 toneladas de roca para escollera por turno.",
+        "design": "Deseamos brindarte no solo ideas que complementan tu obra, sino tambien proyectos innovadores y sostenibles que protejan y preserven nuestro entorno natural.",
+        "specialReq": "La producción de materiales de granulometría especial se adapta completamente a tus requerimientos. En Mon-Basa Cantera, convertimos tus visiones en materiales excepcionales y personalizados que impulsarán el éxito de tu proyecto."
+    },
+    "products": [
+        {
+            "title": "MEZCLA ASFÁLTICA",
+            "content": "Combinación de asfalto y agregados minerales pétreos en proporciones exactas que se utiliza para construir firmes."
+        },
+        {
+            "title": "BASE HIDRÁULICA PREPARADA",
+            "content": "Consiste en una mezcla de materiales entre agregado fino y agregado grueso que permite que el material esté dentro de las curvas granulométricas que establece la normativa SCT y AASHTO."
+        },
+        {
+            "title": "GRAVON",
+            "content": "Roca triturada con varias caras, con un tamaño de piedra que va de 1 1/2 \" a 3 \" y de 3 \" a 5 \"."
+        },
+        {
+            "title": "GRAVA TRITURADA",
+            "content": "Resultado de los procesados de trituración del material en bruto extraído de los ríos, conocidos también como canto rodado, bajo las diversas granulometrías se obtienen gravas de 1 1/2 \" y 3/4 \"."
+        },
+        {
+            "title": "MEZCLA ASFÁLTICA",
+            "content": "Contamos con un producto que cumple con los requerimientos del mercado en calidad. Tenemos una mina propia y nos complementamos con diferentes mineros para atender los grandes proyectos y garantizar nuestro compromiso con los clientes."
+        },
+        {
+            "title": "BASALTO",
+            "content": "Agregados y roca basáltica de diferentes granulometrías y diseño de gravas."
+        },
+        {
+            "title": "ARENA TRITURADA",
+            "content": "Derivada del proceso de trituración de rocas basálticas, por sus propiedades se utilizan para la fabricación de concretos hidráulicos, concretos asfálticos, bases hidráulicas, así como para la construcción en general."
+        }
+    ],
+    "team": {
+        "team": "EQUIPO",
+        "teams": [
+            "CRIBAS",
+            "IMPACTORES",
+            "QUIJADAS",
+            "TRANSPORTE",
+            "BARRENACIÓN"
+        ]
+    },
+    "gallery": "GALERÍA",
+    "projects": [
+        {
+            "title": "AMPLIACIÓN DEL NUEVO PUERTO DE VERACRUZ",
+            "content": "Construcción de la escollera de la marina de la Armada de Anton Lizardo."
+        },
+        {
+            "title": "CONSORCIO LAMAT: TRAMO 1 TREN MAYA",
+            "content": "Suministro y acarreo de balasto para la construcción del Tren Maya."
+        },
+        {
+            "title": "ROMPEOLAS PONIENTE",
+            "content": "Suministro de roca desde 20 kg hasta 2 toneladas. Suministro de agregado."
+        },
+        {
+            "title": "APIVER",
+            "content": "Proveedores de agregados para la construcción de vías férreas dentro de APIVER."
+        }
+    ],
+    "ourCustomers": "NUESTROS CLIENTES",
+    "contactUs": {
+        "title": "Contáctanos"
+    },
+    "map": {
+        "title": "Ubicación"
     }
 }
