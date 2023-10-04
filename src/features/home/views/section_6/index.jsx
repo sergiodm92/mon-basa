@@ -1,10 +1,22 @@
-import styles from './styles.module.css'
+import Image from "next/image";
+import styles from "./styles.module.css";
 
-const SectionSix = ({t}) =>{
-    return(
-        <div className={styles.container}>
-            Section 6
+const SectionSix = ({ t }) => {
+  const products = t("products", { returnObjects: true });
+
+  return (
+    <div className={styles.container}>
+        <div className={styles.header}>
+            <h3>{t("products")}</h3>
+            <h3>{t("products")}</h3>
         </div>
-    )
-}
-export default SectionSix
+      {products.map((product) => (
+        <div className={styles.product}>
+          <Image />
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default SectionSix;
