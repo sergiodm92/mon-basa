@@ -1,4 +1,7 @@
 {
+    "meetUs": {
+        "whoWeAre": "Who we are?"
+    },
     "contactUs":{
         "title":"Contact us"
     },
