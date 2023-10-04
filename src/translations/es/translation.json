@@ -69,8 +69,17 @@
             "title": "ARENA TRITURADA",
             "content": "Derivada del proceso de trituración de rocas basálticas, por sus propiedades se utilizan para la fabricación de concretos hidráulicos, concretos asfálticos, bases hidráulicas, así como para la construcción en general."
         }
-
     ],
+    "team": {
+        "team": "EQUIPO",
+        "teams": [
+            "CRIBAS",
+            "IMPACTORES",
+            "QUIJADAS",
+            "TRANSPORTE",
+            "BARRENACIÓN"
+        ]
+    },
     "contactUs": {
         "title": "Contáctanos"
     },

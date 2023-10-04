@@ -70,6 +70,16 @@
             "content": "Derived from the crushing process of basalt rocks, its properties are used for the production of hydraulic concrete, asphalt concrete, hydraulic bases, as well as general construction."
         }
     ],
+    "team": {
+        "team": "TEAM",
+        "teams": [
+            "SCREENS",
+            "IMPACTORS",
+            "JAWS",
+            "TRANSPORT",
+            "DRILLING"
+        ]
+    },
     "contactUs": {
         "title": "Contact us"
     },
