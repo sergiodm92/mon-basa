@@ -46,6 +46,7 @@
     },
     "products": {
         "title": "Products",
+        "description": "At MON-BASA CANTERA we handle the best materials for our clients.",
         "list": [
             {
                 "title": "ASPHALT MIX",
