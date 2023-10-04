@@ -4,6 +4,7 @@ import rocket from 'public/assets/images/about-us/rocket.webp';
 import world from 'public/assets/images/about-us/world.webp';
 import lightBulb from 'public/assets/images/about-us/light_bulb.webp';
 
+
 const SectionThree = ({ t }) => {
   return (
     <div className={styles.container}>
