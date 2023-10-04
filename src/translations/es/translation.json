@@ -81,6 +81,24 @@
         ]
     },
     "gallery": "GALERÍA",
+    "projects": [
+        {
+            "title": "AMPLIACIÓN DEL NUEVO PUERTO DE VERACRUZ",
+            "content": "Construcción de la escollera de la marina de la Armada de Anton Lizardo."
+        },
+        {
+            "title": "CONSORCIO LAMAT: TRAMO 1 TREN MAYA",
+            "content": "Suministro y acarreo de balasto para la construcción del Tren Maya."
+        },
+        {
+            "title": "ROMPEOLAS PONIENTE",
+            "content": "Suministro de roca desde 20 kg hasta 2 toneladas. Suministro de agregado."
+        },
+        {
+            "title": "APIVER",
+            "content": "Proveedores de agregados para la construcción de vías férreas dentro de APIVER."
+        }
+    ],
     "contactUs": {
         "title": "Contáctanos"
     },

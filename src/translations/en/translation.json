@@ -81,6 +81,24 @@
         ]
     },
     "gallery": "GALLERY",
+    "projects": [
+        {
+            "title": "EXPANSION OF THE NEW PORT OF VERACRUZ",
+            "content": "Construction of the breakwater for the Navy's marina in Anton Lizardo."
+        },
+        {
+            "title": "LAMAT CONSORTIUM: MAYA TRAIN SECTION 1",
+            "content": "Supply and transportation of ballast for the construction of the Maya Train."
+        },
+        {
+            "title": "WEST BREAKWATER",
+            "content": "Supply of rocks from 20 kg to 2 tons. Supply of aggregate."
+        },
+        {
+            "title": "APIVER",
+            "content": "Suppliers of aggregates for the construction of railways within APIVER."
+        }
+    ],
     "contactUs": {
         "title": "Contact us"
     },
