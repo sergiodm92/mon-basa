@@ -3,10 +3,13 @@ import styles from "./styles.module.css";
 import rocket from 'public/assets/images/about-us/rocket.webp';
 import world from 'public/assets/images/about-us/world.webp';
 import lightBulb from 'public/assets/images/about-us/light_bulb.webp';
+import { Inter } from 'next/font/google'
+ 
+const inter = Inter({ subsets: ['latin'] })
 
 const SectionThree = ({ t }) => {
   return (
-    <div className={styles.container}>
+    <div className={`${styles.container} ${inter.className}`}>
 
       <div className={styles.header}>
         <h3>{t("meetUs.whoWeAreTitle")}</h3>
