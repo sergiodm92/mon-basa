@@ -13,6 +13,15 @@
         "thirdParagraph": "Ofrecemos materiales personalizados según tus necesidades, incluso en turnos nocturnos, cumpliendo con todas las regulaciones ambientales y respaldados por un enfoque ecológico sólido.",
         "fourthParagraph": "En Mon-Basa Cantera, nos enfocamos en calidad, respeto al medio ambiente y la satisfacción del cliente."
     },
+    
+    "ourProgress": {
+        "hectares": "HECTÁREAS",
+        "cubicMeters": "METROS CÚBICOS POR TURNO",
+        "mines": "MINAS",
+        "exploitation": "DE METROS CÚBICOS EN VOLUMEN DE EXPLOTACIÓN",
+        "supply": "METROS CUBICOS DE SUMINISTRO DE AGREGADO DE PETREO",
+        "projects": "PROYECTOS CONCLUIDOS CON ÉXITO"
+    },
     "contactUs":{
         "title":"Contáctanos"
     },

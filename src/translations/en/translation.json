@@ -13,6 +13,14 @@
         "thirdParagraph": "We offer customized materials according to your needs, even on night shifts, complying with all environmental regulations and backed by a solid ecological approach.",
         "fourthParagraph": "At Mon-Basa Cantera, we focus on quality, respect for the environment and customer satisfaction."
     },
+    "ourProgress": {
+        "hectares": "HECTARES",
+        "cubicMeters": "CUBIC METERS PER SHIFT",
+        "mines": "MINES",
+        "exploitation": "CUBIC METERS IN EXPLOITATION VOLUME",
+        "supply": "METROS CUBICOS DE SUMINISTRO DE AGREGADO DE PETREO",
+        "projects": "PROJECTS SUCCESSFULLY COMPLETED"
+    },
     "contactUs":{
         "title":"Contact us"
     },
