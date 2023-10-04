@@ -4,7 +4,7 @@ import '../styles/globals.css'
 import i18n from '@/translations/i18n'
 import { Inter } from 'next/font/google'
  
-export const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'], weight: ['400', '700'] });
 
 export default function RootLayout({ children }) {
   
