@@ -1,10 +1,11 @@
+import MainLayout from '@/components/mainLayout'
 import HomePage from '@/features/home/container'
-import '../styles/globals.css'
+
 
 export default function Home() {
   return (
-    <div className='pageConatiner'>
+     <MainLayout>
       <HomePage/>
-    </div>
+   </MainLayout>
   )
 }
