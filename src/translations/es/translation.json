@@ -6,7 +6,13 @@
         "vision": "Ser una empresa mexicana reconocida a nivel mundial, dedicada a producir material basáltico de alta calidad y regulada ante la ley. Buscamos incrementar la producción y el suministro de materiales con un alto margen de competitividad dentro y fuera del territorio mexicano, siempre basándonos en la generación de proyectos innovadores y atendiendo las necesidades del medio ambiente.",
         "values": ["Compromiso", "Responsabilidad", "Colaboración", "Perseverancia", "Respeto", "Compañerismo", "Lealtad", "Convicción", "Honestidad", "Superación", "Servicio", "Adaptación al cambio", "Excelencia"]
     },
-    
+    "ourCommitment": {
+        "title": "NUESTRO COMPROMISO",
+        "firstParagraph": "Mon-Basa Cantera es una empresa comprometida con una visión que va más allá de vender materiales. Nuestra misión es proporcionarte no solo los materiales que necesitas, sino también ideas y soluciones innovadoras que cuiden el medio ambiente.",
+        "secondParagraph": "Operamos minas estratégicas en Cancún, Quintana Roo, Actopan, San Andrés, Veracruz, Hidalgo y el Estado de México. Nuestra mina más grande abarca 90 hectáreas y produce hasta 1,000 metros cúbicos de gravilla y 1,500 toneladas de roca para escollera por turno de manera eficiente.",
+        "thirdParagraph": "Ofrecemos materiales personalizados según tus necesidades, incluso en turnos nocturnos, cumpliendo con todas las regulaciones ambientales y respaldados por un enfoque ecológico sólido.",
+        "fourthParagraph": "En Mon-Basa Cantera, nos enfocamos en calidad, respeto al medio ambiente y la satisfacción del cliente."
+    },
     "contactUs":{
         "title":"Contáctanos"
     },

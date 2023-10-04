@@ -6,6 +6,13 @@
         "vision": "To be a Mexican company recognized worldwide, dedicated to producing high-end basaltic material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always basing ourselves on the generation of innovative projects and addressing the needs of the environment.",
         "values": ["Commitment", "Responsibility", "Collaboration", "Perseverance", "Respect", "Companionship", "Loyalty", "Conviction", "Honesty", "Improvement", "Service", "Adaptation to change" , "Excellence"]
     },
+    "ourCommitment": {
+        "title": "OUR COMMITMENT",
+        "firstParagraph": "Mon-Basa Cantera is a company committed to a vision that goes beyond selling materials. Our mission is to provide you not only with the materials you need, but also with innovative ideas and solutions that care for the environment.",
+        "secondParagraph": "We operate strategic mines in Cancún, Quintana Roo, Actopan, San Andrés, Veracruz, Hidalgo and the State of Mexico. Our largest mine covers 90 hectares and efficiently produces up to 1,000 cubic meters of gravel and 1,500 tonnes of breakwater per shift.",
+        "thirdParagraph": "We offer customized materials according to your needs, even on night shifts, complying with all environmental regulations and backed by a solid ecological approach.",
+        "fourthParagraph": "At Mon-Basa Cantera, we focus on quality, respect for the environment and customer satisfaction."
+    },
     "contactUs":{
         "title":"Contact us"
     },
