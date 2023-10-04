@@ -1,7 +1,10 @@
 {
     "meetUs": {
         "whoWeAreTitle": "Who we are?",
-        "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments."
+        "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments.",
+        "mision": "Our mission is to satisfy the needs of our clients and their projects through the generation and supply of materials, implementing innovative solutions that take care of the environment. Generating materials that meet the special requirements for the different sectors of the mining and construction industry.",
+        "vision": "To be a Mexican company recognized worldwide, dedicated to producing high-end basaltic material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always basing ourselves on the generation of innovative projects and addressing the needs of the environment.",
+        "values": ["Commitment", "Responsibility", "Collaboration", "Perseverance", "Respect", "Companionship", "Loyalty", "Conviction", "Honesty", "Improvement", "Service", "Adaptation to change" , "Excellence"]
     },
     "contactUs":{
         "title":"Contact us"
