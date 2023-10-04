@@ -1,7 +1,9 @@
 /* first desktop, then tablet and mobile*/
 .container{
-    width: 100%;
+    width: 80%;
 }
+
+
 
 .Map {
     position: fixed;

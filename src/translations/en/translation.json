@@ -11,23 +11,16 @@
         "whoWeAreTitle": "Know more about us",
         "largePortfolio": "We keep a large services portfolio for you",
         "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments.",
-        "mision": "Our mission is to satisfy the needs of our clients and their projects through the generation and supply of materials, implementing innovative solutions that take care of the environment. Generating materials that meet the special requirements for the different sectors of the mining and construction industry.",
-        "vision": "To be a Mexican company recognized worldwide, dedicated to producing high-end basaltic material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always basing ourselves on the generation of innovative projects and addressing the needs of the environment.",
-        "values": [
-            "Commitment",
-            "Responsibility",
-            "Collaboration",
-            "Perseverance",
-            "Respect",
-            "Companionship",
-            "Loyalty",
-            "Conviction",
-            "Honesty",
-            "Improvement",
-            "Service",
-            "Adaptation to change",
-            "Excellence"
-        ]
+        "mision": {
+            "title": "Mision",
+            "content": "Our mission is to satisfy the needs of our clients and their projects through the generation and supply of materials, implementing innovative solutions that take care of the environment, generating materials that meet the special requirements for the different sectors of the mining and the construction."},
+        "vision": {
+            "title": "Vision",
+            "content": "To be a Mexican company recognized worldwide, dedicated to producing high quality basalt material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always based on the generation of innovative projects and addressing the needs of the environment."},
+        "values": {
+            "title": "Valores",
+            "content": "We stand out for our corporate values, we are based on commitment, collaboration, perseverance, respect, camaraderie, loyalty, conviction, honesty, improvement, good service, we adapt to the change and excellence of our company."
+        }
     },
     "ourCommitment": {
         "title": "OUR COMMITMENT",
