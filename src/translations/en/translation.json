@@ -1,12 +1,126 @@
 {
+    "navbar": {
+        "home": "Home",
+        "knowUs": "Know us",
+        "services": "Services",
+        "products": "Products",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
     "meetUs": {
-        "whoWeAreTitle": "Who we are?",
-        "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments."
+        "whoWeAreTitle": "Know more about us",
+        "largePortfolio": "We keep a large services portfolio for you",
+        "whoWeAreContent": "Mon-Basa Quarry stands out in the stone crushing and transportation industry, playing an essential role in construction and development. Their work goes beyond the extraction of materials, influencing the quality and durability of infrastructure, as well as the efficiency of projects. Its focus on excellence and sustainability makes it a key contributor to the construction industry, contributing significantly to the shaping of functional and aesthetic urban and rural environments.",
+        "mision": {
+            "title": "Mision",
+            "content": "Our mission is to satisfy the needs of our clients and their projects through the generation and supply of materials, implementing innovative solutions that take care of the environment, generating materials that meet the special requirements for the different sectors of the mining and the construction."
+        },
+        "vision": {
+            "title": "Vision",
+            "content": "To be a Mexican company recognized worldwide, dedicated to producing high quality basalt material and regulated by law. We seek to increase the production and supply of materials with a high margin of competitiveness inside and outside the Mexican territory, always based on the generation of innovative projects and addressing the needs of the environment."
+        },
+        "values": {
+            "title": "Valores",
+            "content": "We stand out for our corporate values, we are based on commitment, collaboration, perseverance, respect, camaraderie, loyalty, conviction, honesty, improvement, good service, we adapt to the change and excellence of our company."
+        }
     },
-    "contactUs":{
-        "title":"Contact us"
+    "ourCommitment": {
+        "title": "OUR COMMITMENT",
+        "firstParagraph": "Mon-Basa Cantera is a company committed to a vision that goes beyond selling materials. Our mission is to provide you not only with the materials you need, but also with innovative ideas and solutions that care for the environment.",
+        "secondParagraph": "We operate strategic mines in Cancún, Quintana Roo, Actopan, San Andrés, Veracruz, Hidalgo and the State of Mexico. Our largest mine covers 90 hectares and efficiently produces up to 1,000 cubic meters of gravel and 1,500 tonnes of breakwater per shift.",
+        "thirdParagraph": "We offer customized materials according to your needs, even on night shifts, complying with all environmental regulations and backed by a solid ecological approach.",
+        "fourthParagraph": "At Mon-Basa Cantera, we focus on quality, respect for the environment and customer satisfaction."
     },
-    "map":{
-        "title":"Location"
+    "ourProgress": {
+        "hectares": "HECTARES",
+        "cubicMeters": "CUBIC METERS PER SHIFT",
+        "mines": "MINES",
+        "exploitation": "CUBIC METERS IN EXPLOITATION VOLUME",
+        "supply": "METROS CUBICOS DE SUMINISTRO DE AGREGADO DE PETREO",
+        "projects": "PROJECTS SUCCESSFULLY COMPLETED"
+    },
+    "services": {
+        "materialSupply": "We have a daily production potential of 3 thousand cubic meters of stone aggregates, such as dust and gravel, in a variety of sizes, as well as the capacity to extract 1,000 tons of rock for breakwater per shift.",
+        "design": "We want to provide you not only with ideas that complement your work, but also innovative and sustainable projects that protect and preserve our natural environment.",
+        "specialReq": "The production of special granulometry materials is completely adapted to your requirements. At Mon-Basa Cantera, we turn your visions into exceptional and personalized materials that will drive the success of your project."
+    },
+    "products": {
+        "title": "Products",
+        "description": "At MON-BASA CANTERA we handle the best materials for our clients.",
+        "list": [
+            {
+                "title": "ASPHALT MIX",
+                "content": "Combination of asphalt and mineral aggregates in exact proportions used for road construction."
+            },
+            {
+                "title": "PREPARED HYDRAULIC BASE",
+                "content": "Consists of a mixture of materials between fine aggregate and coarse aggregate that allows the material to be within the particle size distribution curves established by SCT and AASHTO regulations."
+            },
+            {
+                "title": "CRUSHED ROCK",
+                "content": "Crushed rock with multiple faces, with a stone size ranging from 1 1/2\" to 3\" and from 3\" to 5\"."
+            },
+            {
+                "title": "CRUSHED GRAVEL",
+                "content": "Resulting from the crushing processes of raw material extracted from rivers, also known as pebbles, various granulometries yield gravels of 1 1/2\" and 3/4\"."
+            },
+            {
+                "title": "ASPHALT MIX",
+                "content": "We have a product that meets market quality requirements. We have our own mine and collaborate with various miners to serve large projects and guarantee our commitment to customers."
+            },
+            {
+                "title": "BASALT",
+                "content": "Aggregates and basalt rock of different granulometries and gravel designs."
+            },
+            {
+                "title": "CRUSHED SAND",
+                "content": "Derived from the crushing process of basalt rocks, its properties are used for the production of hydraulic concrete, asphalt concrete, hydraulic bases, as well as general construction."
+            }
+        ]
+    },
+    "team": {
+        "team": "TEAM",
+        "teams": [
+            "SCREENS",
+            "IMPACTORS",
+            "JAWS",
+            "TRANSPORT",
+            "DRILLING"
+        ]
+    },
+    "gallery": "GALLERY",
+    "projects": [
+        {
+            "title": "EXPANSION OF THE NEW PORT OF VERACRUZ",
+            "content": "Construction of the breakwater for the Navy's marina in Anton Lizardo."
+        },
+        {
+            "title": "LAMAT CONSORTIUM: MAYA TRAIN SECTION 1",
+            "content": "Supply and transportation of ballast for the construction of the Maya Train."
+        },
+        {
+            "title": "WEST BREAKWATER",
+            "content": "Supply of rocks from 20 kg to 2 tons. Supply of aggregate."
+        },
+        {
+            "title": "APIVER",
+            "content": "Suppliers of aggregates for the construction of railways within APIVER."
+        }
+    ],
+    "ourCustomers": "OUR CUSTOMERS",
+    "contactUs": {
+        "title": "Contact us"
+    },
+    "anyProject": "Any project in your mind?",
+    "location": "Rustic property called “Caño de Gallegos”, located in the congregation of Paso Cedro, municipality of Actopan, Veracruz. At the deviation to Mozomboa on Highway 180 at km 179, between the communities of Caño Gallegos and Playa Azul. CP 91494",
+    "contactForm": {
+        "name": "Name",
+        "lastname": "Lastname",
+        "email": "Email",
+        "message": "Message",
+        "buttonSubmit": "Send"
+    },
+    "map": {
+        "title": "Location"
     }
 }
